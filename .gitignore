@@ -11,9 +11,7 @@ output_files/
 *.bak
 *.log
 *.jdi
-*.qip
-*.sip
-*.qsys_edit/
+
 # Fichiers de verrouillage
 *.rdr
 *.rdr.flock
