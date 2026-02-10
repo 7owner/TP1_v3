@@ -14,10 +14,6 @@ output_files/
 *.qip
 *.sip
 *.qsys_edit/
-
-# Logiciels Nios II
-app_software/
-
 # Fichiers de verrouillage
 *.rdr
 *.rdr.flock
