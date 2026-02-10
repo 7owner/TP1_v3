@@ -1,0 +1,23 @@
+# Fichiers générés par Quartus
+db/
+incremental_db/
+output_files/
+*.rpt
+*.sopcinfo
+*.bsf
+*.cmp
+*.html
+*.qws
+*.bak
+*.log
+*.jdi
+*.qip
+*.sip
+*.qsys_edit/
+
+# Logiciels Nios II
+app_software/
+
+# Fichiers de verrouillage
+*.rdr
+*.rdr.flock
